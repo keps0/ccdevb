@@ -1,0 +1,35 @@
+C:\Users\Epse MBELLA\Documents\Visual Studio 2012\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.exe.config
+C:\Users\Epse MBELLA\Documents\Visual Studio 2012\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.exe
+C:\Users\Epse MBELLA\Documents\Visual Studio 2012\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.xml
+C:\Users\Epse MBELLA\Documents\Visual Studio 2012\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.pdb
+C:\Users\Epse MBELLA\Documents\Visual Studio 2012\Projects\applicationgestionpharmacie\WindowsApplication3\bin\Debug\WindowsApplication3.exe.config
+C:\Users\Epse MBELLA\Documents\Visual Studio 2012\Projects\applicationgestionpharmacie\WindowsApplication3\obj\Debug\WindowsApplication3.exe
+C:\Users\Epse MBELLA\Documents\Visual Studio 2012\Projects\applicationgestionpharmacie\WindowsApplication3\obj\Debug\WindowsApplication3.xml
+C:\Users\Epse MBELLA\Documents\Visual Studio 2012\Projects\applicationgestionpharmacie\WindowsApplication3\obj\Debug\WindowsApplication3.pdb
+C:\Users\Epse MBELLA\Documents\Visual Studio 2012\Projects\applicationgestionpharmacie\WindowsApplication3\obj\Debug\WindowsApplication3.Form1.resources
+C:\Users\Epse MBELLA\Documents\Visual Studio 2012\Projects\applicationgestionpharmacie\WindowsApplication3\obj\Debug\WindowsApplication3.Form2.resources
+C:\Users\Epse MBELLA\Documents\Visual Studio 2012\Projects\applicationgestionpharmacie\WindowsApplication3\obj\Debug\WindowsApplication3.Form3.resources
+C:\Users\Epse MBELLA\Documents\Visual Studio 2012\Projects\applicationgestionpharmacie\WindowsApplication3\obj\Debug\WindowsApplication3.Form4.resources
+C:\Users\Epse MBELLA\Documents\Visual Studio 2012\Projects\applicationgestionpharmacie\WindowsApplication3\obj\Debug\WindowsApplication3.Form5.resources
+C:\Users\Epse MBELLA\Documents\Visual Studio 2012\Projects\applicationgestionpharmacie\WindowsApplication3\obj\Debug\WindowsApplication3.Form6.resources
+C:\Users\Epse MBELLA\Documents\Visual Studio 2012\Projects\applicationgestionpharmacie\WindowsApplication3\obj\Debug\WindowsApplication3.Form7.resources
+C:\Users\Epse MBELLA\Documents\Visual Studio 2012\Projects\applicationgestionpharmacie\WindowsApplication3\obj\Debug\WindowsApplication3.Resources.resources
+C:\Users\Epse MBELLA\Documents\Visual Studio 2012\Projects\applicationgestionpharmacie\WindowsApplication3\obj\Debug\Applicationgestionpharmacie.vbproj.GenerateResource.Cache
+C:\Users\Epse MBELLA\Documents\Visual Studio 2012\Projects\applicationgestionpharmacie\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+C:\Users\Epse MBELLA\Documents\Visual Studio 2012\Projects\applicationgestionpharmacie\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+C:\Users\Epse MBELLA\Documents\Visual Studio 2012\Projects\applicationgestionpharmacie\WindowsApplication3\bin\Debug\WindowsApplication3.xml
+C:\Users\Epse MBELLA\Documents\Visual Studio 2012\Projects\applicationgestionpharmacie\WindowsApplication3\obj\Debug\WindowsApplication3.Form8.resources
+C:\Users\Epse MBELLA\Desktop\applicationgestionpharmacie\WindowsApplication3\bin\Debug\WindowsApplication3.exe.config
+C:\Users\Epse MBELLA\Desktop\applicationgestionpharmacie\WindowsApplication3\obj\Debug\WindowsApplication3.exe
+C:\Users\Epse MBELLA\Desktop\applicationgestionpharmacie\WindowsApplication3\obj\Debug\WindowsApplication3.xml
+C:\Users\Epse MBELLA\Desktop\applicationgestionpharmacie\WindowsApplication3\obj\Debug\WindowsApplication3.pdb
+C:\Users\Epse MBELLA\Desktop\applicationgestionpharmacie\WindowsApplication3\obj\Debug\WindowsApplication3.Form1.resources
+C:\Users\Epse MBELLA\Desktop\applicationgestionpharmacie\WindowsApplication3\obj\Debug\WindowsApplication3.Form2.resources
+C:\Users\Epse MBELLA\Desktop\applicationgestionpharmacie\WindowsApplication3\obj\Debug\WindowsApplication3.Form3.resources
+C:\Users\Epse MBELLA\Desktop\applicationgestionpharmacie\WindowsApplication3\obj\Debug\WindowsApplication3.Form4.resources
+C:\Users\Epse MBELLA\Desktop\applicationgestionpharmacie\WindowsApplication3\obj\Debug\WindowsApplication3.Form5.resources
+C:\Users\Epse MBELLA\Desktop\applicationgestionpharmacie\WindowsApplication3\obj\Debug\WindowsApplication3.Resources.resources
+C:\Users\Epse MBELLA\Desktop\applicationgestionpharmacie\WindowsApplication3\obj\Debug\Applicationgestionpharmacie.vbproj.GenerateResource.Cache
+C:\Users\Epse MBELLA\Desktop\applicationgestionpharmacie\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+C:\Users\Epse MBELLA\Desktop\applicationgestionpharmacie\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+C:\Users\Epse MBELLA\Desktop\applicationgestionpharmacie\WindowsApplication3\bin\Debug\WindowsApplication3.xml
